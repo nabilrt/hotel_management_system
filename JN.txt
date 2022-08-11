@@ -1,0 +1,5 @@
+Nid:2595
+Name:Anika
+Age:20
+Nationality:Bangladeshi
+Phone Number:11225588
